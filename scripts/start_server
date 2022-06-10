@@ -1,0 +1,5 @@
+
+
+cd /etc/systemd/system
+
+sudo systemctl restart test.service

@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/ubuntu/platform-backend
+source myVenv/bin/activate
+pip3 install -r requirements.txt
