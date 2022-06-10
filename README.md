@@ -1,3 +1,3 @@
 # FieldsManager
 Backend for Fields managing platform.
-See API docs [here](https://aeromars-agro.com/docs)
+[Here](https://aeromars-agro.com/docs) you can see API docs and test it
